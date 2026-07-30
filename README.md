@@ -4,43 +4,55 @@
 ========================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md%20Jikaullah&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Md%20Jikaullah&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+
 </div>
+
 
 <div align="center">
 
-  <h1>👋 Hi, I'm Md Jikaullah</h1>
+# 👋 Hi, I'm Md Jikaullah
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vcenter=true&width=650&lines=Full+Stack+Web+Developer;AI+Agent+Developer;MERN+Stack+Specialist;Building+Real+World+Projects" alt="Typing SVG" />
-  </a>
+### Computer Science Student | Full Stack Developer | AI/ML Enthusiast
 
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://github.com/JIKAULLAH?tab=followers">
-      <img src="https://img.shields.io/github/followers/JIKAULLAH?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="Followers">
-    </a>
-    <a href="https://github.com/JIKAULLAH?tab=repositories">
-      <img src="https://img.shields.io/github/stars/JIKAULLAH?label=Stars&style=for-the-badge&color=FFB800&logo=github" alt="Stars">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=JIKAULLAH&style=for-the-badge&color=00E676" alt="Profile Views">
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+Agent+Developer;Learning+Cyber+Security;Building+Real+World+Projects" />
 
 </div>
 
+
+<p align="center">
+  <a href="https://github.com/JIKAULLAH">
+    <img src="https://img.shields.io/github/followers/JIKAULLAH?label=Followers&style=for-the-badge&color=blue">
+  </a>
+  <a href="https://github.com/JIKAULLAH">
+    <img src="https://img.shields.io/github/stars/JIKAULLAH?label=Stars&style=for-the-badge&color=yellow">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JIKAULLAH&style=for-the-badge&color=green">
+</p>
+
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```javascript
 const jikaullah = {
     name: "Md Jikaullah",
-    role: "Full Stack Developer",
     education: "BCA Computer Science",
-    specialization: ["Full Stack Development", "AI Agents", "Web Engineering"],
-    currentlyLearning: ["Advanced System Architecture", "DSA", "AI/ML Integrations"],
-    goal: "Building scalable, high-performance web applications"
+    university: "Chaudhary Charan Singh University",
+    role: "Full Stack Developer",
+    specialization: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Cyber Security"
+    ],
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Advanced Backend Development",
+        "AI Agents"
+    ],
+    goal: "Build scalable software solutions"
 };
 ```
 
